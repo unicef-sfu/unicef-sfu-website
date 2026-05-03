@@ -1,0 +1,75 @@
+[
+    {
+        "eventName": "For every bite, a better life: a Krispy Kreme Fundraiser",
+        "date": "Spring 2026",
+        "image": "/past-events/spring_krispy_kreme_fundraiser.png",
+        "alt": "Our ambassadors volunteering for our Krispy Kreme Fundraiser",
+        "descriptions": [
+            "Thank you to everyone who bought donuts and supported our Krispy Kreme fundraiser! Our fundraiser advocated for children's rights to survive and thrive around the world."
+        ]
+    },
+    {
+        "eventName":"Spring 2026 Icebreaker", 
+        "date": "Spring 2026",
+        "image": "/past-events/spring-icebreaker-2026.png",
+        "alt": "Executives and general members at our first event of the Spring 2026 semester", 
+        "descriptions": [
+            "Our icebreaker event welcomed general members and helped everyone connect through fun games. They also got to know more about our UNICEF SFU and how they can get involved. "
+        ]
+    },
+    {
+        "eventName": "A Light in the Dust: Solidarity for Afghanistan's Recovery - Advocacy Campaign",
+        "date": "Fall 2025",
+        "image": "/past-events/a-light-in-the-dust.png",
+        "alt": "Students volunteering for an advocacy campaign, A Light in the Dust: Solidary for Afghanistan's Recovery",
+        "descriptions": [
+            "We advocated for the awareness and solidarity for families and children affected by the crisis in Afghanistan. Our team shared information with the SFU community, sparked conversations, and encouraged compassion and empathy on campus."
+        ]
+    },
+    {
+        "eventName": "The Weight of Hunger",
+        "date": "Fall 2025",
+        "image": "/past-events/the-weight-of-hunger.png", 
+        "alt": "Ambassadors and general members presenting for The Weight of Hunger event", 
+        "descriptions": [
+            "This internal event focussed on educating and advocating for the effects of malnutrition on children around the world. We also collected non-perishable food items for donation to the Salvation Army."
+        ]
+    },
+    {
+        "eventName": "Behind the Seams",
+        "date": "Fall 2025",
+        "image": "/past-events/behind-the-seams.png",
+        "alt": "Some of our executives presenting for the Behind the Seams event",
+        "descriptions": [
+            "The internals team organized an event that advocated for the awareness and prevention of child labour and how we can make a difference through our consumption choices. The event also featured a clothing drive for Big Brothers of Greater Vancouver."
+        ]
+    },
+    {
+        "eventName": "Bright Futures Gala",
+        "date": "Spring 2025",
+        "image": "/past-events/bright-futures-gala.png",
+        "alt": "Guests of UNICEF SFU's Bright Futures Gala in 2025",
+        "descriptions": [
+            "The Bright Futures Gala was one of UNICEF SFU's annual charity galas that took place in March 2025, focussing on Child Protection and Inclusion, which is one of UNICEF's key global focus areas. The event brought together over 120 attendees for an inspiring evening dedicated to advocating for the safety, inclusion, and empowerment of every child. We were honoured to welcome best-selling author and educator Hannah Beach as our keynote speaker, whose work in social-emotional learning resonated deeply with the evening's message.",
+            "The event also raised over $3,300 in donations, with 100% of proceeds directly contributed to UNICEF Canada to support programs that protect children from violence, exploitation, and discrimination."
+        ]
+    },
+    {
+        "eventName":"Halloween Bottle Drive 2024",
+        "date": "Fall 2024",
+        "image": "/past-events/halloween-bottle-drive.png",
+        "alt": "Student volunteers with collected bottles for the Halloween Bottle Drive in Fall 2024",
+        "descriptions": [
+            "In the Fall 2024 semester, our team got together to collect bottles from residences around our campus, raising over $500."
+        ]
+    }, 
+    {
+        "eventName": "Hearts For Haiti",
+        "date": "Spring 2024", 
+        "image": "/past-events/hearts-for-haiti.png",
+        "alt": "Student volunteers for Hearts For Haiti advocacy campaign in Spring 2024",
+        "descriptions": [
+            "In the Spring 2024 semester, UNICEF SFU launched their second advocacy campaign of the school year to raise awareness surrounding the children's humanitarian crisis in Haiti."
+        ]
+    }
+]

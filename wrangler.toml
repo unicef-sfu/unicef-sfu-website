@@ -1,0 +1,9 @@
+name = "unicefsfu-contact-worker"
+main = "workers/contact.js"
+compatibility_date = "2025-12-29"
+workers_dev = false
+preview_urls = false
+
+[[routes]]
+pattern = "unicefsfucampusclub.ca/api/*"
+zone_name = "unicefsfucampusclub.ca"

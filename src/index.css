@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --font-great-vibes: "Great Vibes", cursive;
+  --font-libre: "Libre Baskerville", serif;
+}
+
+body {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
