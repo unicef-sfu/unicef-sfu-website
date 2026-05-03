@@ -1,4 +1,4 @@
-name = "unicefsfu-contact-worker"
+name = "unicef-sfu-website"
 main = "workers/contact.js"
 compatibility_date = "2025-12-29"
 workers_dev = false
