@@ -59,7 +59,7 @@ export const Contact = () => {
                         <h2 className="text-4xl text-[#009EDB]">We'd love to hear from you!</h2>
                         <p className="text-gray-600">
                             If you're looking to collaborate or just want to know more, get in touch with our team through
-                            the contact details below or send us a message.
+                            the contact details below and send us a message.
                         </p>
                     </div>
 
@@ -78,6 +78,8 @@ export const Contact = () => {
                 </div>
 
                 {/* form (right side) */}
+                {/*
+                
                 <div className="rounded-lg border border-gray-200 bg-white p-6 shadow-sm">
                     <h2 className="mb-6 text-2xl font-semibold text-gray-900">Send us a message</h2>
 
@@ -178,6 +180,7 @@ export const Contact = () => {
 
                     </form>
                 </div>
+                */}
             </div>
         </div>
     )
