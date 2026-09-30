@@ -1,49 +1,48 @@
 const TEAM_DATA = {
   "The Board": [
-    { name: "Alveena Babul", role: "Co-President", img: "/team pics/Alveena-Babul.jpeg" },
-    { name: "Sarah Wiese", role: "Co-President", img: "/team pics/Sarah-Wiese.jpeg"  },
-    { name: "Amareet Dhaliwal", role: "VP of External Relations", img: "/team pics/Amareet-Dhaliwal.jpeg" },
-    { name: "Jasnoor Sekhon", role: "VP of Communications", img: "/team pics/Jasnoor.jpeg" },
-    { name: "Grace Tognotti", role: "VP of Internal Relations", img: "/team pics/Grace-Tognotti.jpeg" },
-    { name: "Therese Baido", role: "VP of Advocacy", img: "/team pics/Therese-Baido.jpeg" },
-    { name: "Martin Aguliar", role: "VP of Finance", img: "/team pics/Martin-Aguilar.jpeg" },
+    { name: "Akash Jassal", role: "Co-President", img: "/team-pics/Akash-Jassal.png" },
+    { name: "Tajin Rai", role: "Co-President", img: "/team-pics/Tajin-Rai.JPG"  },
+    { name: "Jenny Nguyen", role: "VP of External Relations", img: "/team-pics/Jenny-Nguyen.jpeg" },
+    { name: "Simrat Dhanoa", role: "VP of Communications", img: "/team-pics/Simrat-Dhanoa.JPG" },
+    { name: "Isha Cheema", role: "VP of Internal Relations", img: "/team-pics/Isha-Cheema.jpeg" },
+    { name: "Lakshmi Harman", role: "VP of Advocacy", img: "/team-pics/Lakshmi-H.jpeg" },
+    { name: "Alex Hanada", role: "VP of Finance", img: "/team-pics/Alex-Hanada.jpeg" },
   ],
   "Internals Team": [
-    { name: "Alex Hanada", role: "Internal Events Director", img: "/team pics/Alexander-Hanada.jpeg" },
-    { name: "Isha Cheema", role: "Ambassador", img: "/team pics/Isha-Cheema.jpeg" },
-    { name: "Tajin Rai", role: "Internal Events Director", img: "/team pics/Tajin-Rai.jpeg"},
-    { name: "Angela Luong", role: "Ambassador", img: "/team pics/Angela-Luong.jpeg"},
-    { name: "Yar Biar", role: "Internal Events Director", img: "/team pics/Yar-Biar.png" },
-    { name: "Linda Palchevsky", role: "Internal Events Director", img: "/team pics/Linda-Palchevsky.jpeg"},
-    { name: "Lakshmi Harman", role: "Ambassador", img: "/team pics/Lakshmi-Harman.jpeg" },
-    { name: "Olivia Tuan", role: "Ambassador", img: "/team pics/Olivia_Tuan.jpeg"}
+    { name: "Drishia Prabhu", role: "Internal Events Director", img: "/team-pics/Drishia.jpeg" },
+    { name: "Imran Johal", role: "Internal Events Director", img: "/team-pics/Imran-Johal.jpeg"},
+    { name: "Marie-Ange Lokenga", role: "Internal Events Director", img: "/team-pics/Marie-Ange-Lokenga.jpeg"},    
+    { name: "Yar Biar", role: "Internal Events Director", img: "/team pics/Yar-Biar.jpeg" },
+    { name: "Aarav Kamboj", role: "Ambassador", img: "/team-pics/Aarav-Kamboj.PNG"},
+    { name: "Amina Kulchikova", role: "Ambassador", img: "/team-pics/Amina-Kulchikova.png" },
+    { name: "Betty Kiros", role: "Ambassador", img: "/team-pics/Betty-Ghirmay.jpeg" },
+    { name: "Sejal Dhaliwal", role: "Ambassador", img: "/team-pics/Sejal-Dhaliwal.jpeg"}
 
   ],
   "Externals Team": [
-    { name: "Rowen Mack", role: "Outreach Director", img: "/team pics/Rowen-Mack.jpeg"},
-    { name: "Colleen Flores", role: "Fundraising Director", img: "/team pics/Colleen-Flores.jpeg"},
-    { name: "Jennie Park", role: "Fundraising Director", img: "/team pics/Jennie_Park.jpeg"},
-    { name: "Eshal Usmani", role: "Volunteer Director", img: "/team pics/Eshal-Usmani.jpeg"},
-    { name: "Andrea Watanabe", role: "Logistics Director", img: "/team pics/Andrea-Watanabe.jpeg"},
-    { name: "Jenny Nguyen", role: "Logistics Director", img: "/team pics/Jenny-Nguyen.jpeg"},
-    { name: "Baljot Reehal", role: "Logistics Director", img: "/team pics/Baljot-Reehal.jpeg"},
-    { name: "Winston Zhou", role: "Sponsorship Director", img: "/team pics/Winston-Zhou.jpeg"},
-    { name: "Junghun Byun", role: "Sponsorship Director", img: "/team pics/Junghun-Byun.jpg"},
-    { name: "Kudrat Kochhar", role: "Sponsorship Director", img: "/team pics/Kudrat-Kochhar.jpeg"},
+    { name: "Eshal Usmani", role: "Volunteer Director", img: "/team-pics/Eshal-Usmani.jpeg"},
+    { name: "Amanjot Brar", role: "Fundraising Director", img: "/team-pics/Amanjot-Brar.png"},
+    { name: "Jennie Park", role: "Fundraising Director", img: "/team-pics/jennie-park.jpeg"},
+    { name: "Jolina Ronnekleiv", role: "Fundraising Director", img: "/team-pics/Jolina-Ronnekleiv.jpeg"},
+    { name: "Ayati Nayar", role: "Logistics Director", img: "/team-pics/Ayati-Nayar.jpeg"},
+    { name: "Jasnoor Sekhon", role: "Logistics Director", img: "/team-pics/Jasnoor-Sekhon.jpg"},
+    { name: "Samanya Ramnath", role: "Logistics Director", img: "/team-pics/Samanya-R.jpeg"},
+    { name: "Judy Kim", role: "Sponsorship Director", img: "/team-pics/Judy-Kim.jpeg"},
+    { name: "Shivam Narula", role: "Sponsorship Director", img: "/team-pics/shivam-narula.png"},
+    { name: "SooMin Yeo", role: "Sponsorship Director", img: "/team-pics/SooMin-Yeo.jpeg"}
 
   ],
   Finance: [
-    { name: "Akash Jassal", role: "Finance Director", img: "/team pics/Akash-Jassal.jpeg" }
+    { name: "Sahij Sandhu", role: "Finance Director", img: "/team-pics/Sahij-Sandhu.jpeg" }
   ],
   Communications: [
-    { name: "Aliza Sandhu", role: "Graphics Director", img: "/team pics/Aliza-Sandhu.jpeg" },
-    { name: "Inarah Usmani", role: "Graphics Director", img: "/team pics/Inarah-Usmani.jpeg" },
-    { name: "Simrat Dhanoa", role: "Graphics Director", img: "/team pics/Simrat-Dhanoa.jpeg" },
-    { name: "Cheska Mercurio", role: "Marketing Director", img: "/team pics/Cheska.jpeg" },
+    { name: "Judy Jiang", role: "Graphics Director", img: "/team-pics/Judy.jpg" },
+    { name: "Layan Kutieleh", role: "Graphics Director", img: "/team-pics/Layan-Kutieleh.jpeg" },
+    { name: "Sahaj Kaur Gabria", role: "Graphics Director", img: "/team-pics/SahajKaur-Gabria.jpeg" },
+    { name: "Anaya Naqvi", role: "Marketing Director", img: "/team-pics/Anaya-Ali.jpg" },
     { name: "Noorkiran Dhaliwal", role: "Marketing Director", img: "/team pics/Noorkiran-Dhaliwal.jpeg" },
-    { name: "Jordan Baty-Martin", role: "Marketing Director", img: "/team pics/Jordan-Baty-Martin.jpg" },
-    { name: "Justinne Baltazar", role: "Website Developer", img: "/team pics/Justinne-Baltazar.jpeg" },
-    { name: "Owen Tedja", role: "Website Designer", img: "/team pics/Owen-Tedja.jpeg" },
+    { name: "Yuvraj Dhillon", role: "Marketing Director", img: "/team-pics/Yuvraj-Dhillon.jpeg" },
+    { name: "Justinne Baltazar", role: "Website Developer", img: "/team-pics/Justinne-Baltazar.JPG" }
   ],
 }
 

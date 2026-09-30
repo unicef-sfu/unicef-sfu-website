@@ -1,4 +1,12 @@
-[
+[    {
+        "eventName": "Light of Life Gala",
+        "date": "Spring 2026",
+        "image": "/gala/group-gala-photo.jpg",
+        "alt": "2025-2026 Executives at the Light of Life Gala",
+        "descriptions": [
+            "Thank you to our general members, sponsors, and everyone who attended for making this event possible!"
+        ]
+    },
     {
         "eventName": "For every bite, a better life: a Krispy Kreme Fundraiser",
         "date": "Spring 2026",
