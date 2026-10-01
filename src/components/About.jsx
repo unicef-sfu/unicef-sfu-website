@@ -12,7 +12,7 @@ const TEAM_DATA = {
     { name: "Drishia Prabhu", role: "Internal Events Director", img: "/team-pics/Drishia.jpeg" },
     { name: "Imran Johal", role: "Internal Events Director", img: "/team-pics/Imran-Johal.jpeg"},
     { name: "Marie-Ange Lokenga", role: "Internal Events Director", img: "/team-pics/Marie-Ange-Lokenga.jpeg"},    
-    { name: "Yar Biar", role: "Internal Events Director", img: "/team pics/Yar-Biar.jpeg" },
+    { name: "Yar Biar", role: "Internal Events Director", img: "/team-pics/Yar-Biar.jpeg" },
     { name: "Aarav Kamboj", role: "Ambassador", img: "/team-pics/Aarav-Kamboj.PNG"},
     { name: "Amina Kulchikova", role: "Ambassador", img: "/team-pics/Amina-Kulchikova.png" },
     { name: "Betty Kiros", role: "Ambassador", img: "/team-pics/Betty-Ghirmay.jpeg" },
@@ -40,7 +40,7 @@ const TEAM_DATA = {
     { name: "Layan Kutieleh", role: "Graphics Director", img: "/team-pics/Layan-Kutieleh.jpeg" },
     { name: "Sahaj Kaur Gabria", role: "Graphics Director", img: "/team-pics/SahajKaur-Gabria.jpeg" },
     { name: "Anaya Naqvi", role: "Marketing Director", img: "/team-pics/Anaya-Ali.jpg" },
-    { name: "Noorkiran Dhaliwal", role: "Marketing Director", img: "/team pics/Noorkiran-Dhaliwal.jpeg" },
+    { name: "Noorkiran Dhaliwal", role: "Marketing Director", img: "/team-pics/Noorkiran-Dhaliwal.jpeg" },
     { name: "Yuvraj Dhillon", role: "Marketing Director", img: "/team-pics/Yuvraj-Dhillon.jpeg" },
     { name: "Justinne Baltazar", role: "Website Developer", img: "/team-pics/Justinne-Baltazar.JPG" }
   ],
