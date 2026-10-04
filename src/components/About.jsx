@@ -36,7 +36,7 @@ const TEAM_DATA = {
     { name: "Sahij Sandhu", role: "Finance Director", img: "/team-pics/Sahij-Sandhu.jpeg" }
   ],
   Communications: [
-    { name: "Judy Jiang", role: "Graphics Director", img: "/team-pics/Judy.jpg" },
+    { name: "Judy Jiang", role: "Graphics Director", img: "/team-pics/judy.jpg" },
     { name: "Layan Kutieleh", role: "Graphics Director", img: "/team-pics/Layan-Kutieleh.jpeg" },
     { name: "Sahaj Kaur Gabria", role: "Graphics Director", img: "/team-pics/SahajKaur-Gabria.jpeg" },
     { name: "Anaya Naqvi", role: "Marketing Director", img: "/team-pics/Anaya-Ali.jpg" },
