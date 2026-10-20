@@ -1,4 +1,23 @@
-[    {
+[    
+    {
+        "eventName":"Fall 2026 Icebreaker", 
+        "date": "Fall 2026",
+        "image": "/past-events/icebreaker-fall.jpeg",
+        "alt": "Executives and general members at our Fall 2026 Icebreaker", 
+        "descriptions": [
+            "Our icebreaker event welcomed general members and helped everyone connect through fun games. They also got to know more about our UNICEF SFU and how they can get involved. "
+        ]
+    },
+    {
+        "eventName": "Back to School Bottle Drive Distribution",
+        "date": "Fall 2026",
+        "image": "/past-events/Back-to-School-Bottle-Drive.jpg",
+        "alt": "Fall 2026 Back to School Bottle Drive Distribution",
+        "descriptions": [
+            "In the Fall 2026 semester, our team got together to collect bottles from the Cariboo Area to help raise funds for UNICEF."
+        ]
+    },
+    {
         "eventName": "Light of Life Gala",
         "date": "Spring 2026",
         "image": "/gala/group-gala-photo.jpg",

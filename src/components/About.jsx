@@ -40,7 +40,6 @@ const TEAM_DATA = {
     { name: "Layan Kutieleh", role: "Graphics Director", img: "/team-pics/Layan-Kutieleh.jpeg" },
     { name: "Sahaj Kaur Gabria", role: "Graphics Director", img: "/team-pics/SahajKaur-Gabria.jpeg" },
     { name: "Anaya Naqvi", role: "Marketing Director", img: "/team-pics/Anaya-Ali.jpg" },
-    { name: "Noorkiran Dhaliwal", role: "Marketing Director", img: "/team-pics/Noorkiran-Dhaliwal.jpeg" },
     { name: "Yuvraj Dhillon", role: "Marketing Director", img: "/team-pics/Yuvraj-Dhillon.jpeg" },
     { name: "Justinne Baltazar", role: "Website Developer", img: "/team-pics/Justinne-Baltazar.JPG" }
   ],
