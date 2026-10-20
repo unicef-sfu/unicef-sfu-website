@@ -1,5 +1,14 @@
 [    
     {
+        "eventName": "Krispy Kreme Donut Sale: Donuts for a Difference!",
+        "date": "Fall 2026",
+        "image": "/past-events/krispy-kreme-fundraiser.jpg",
+        "alt": "Our ambassadors and executives volunteering for our Krispy Kreme Fundraiser",
+        "descriptions": [
+            "Thank you to everyone who bought donuts and supported our Krispy Kreme fundraiser! Our fundraiser advocated for children's rights to survive and thrive around the world."
+        ]
+    },
+    {
         "eventName":"Fall 2026 Icebreaker", 
         "date": "Fall 2026",
         "image": "/past-events/icebreaker-fall.jpeg",
